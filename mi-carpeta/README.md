@@ -2,4 +2,4 @@
 
 Mira que gatito mas bonito
 
-! [] (gatitolindo.jpeg)
+![](gatitolindo.jpeg)
